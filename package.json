@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "idb": "^8.0.3",
-    "next": "16.2.10",
+    "next": "16.3.5",
     "onnxruntime-web": "^1.27.0",
     "openai": "^6.45.0",
     "react": "19.2.4",
@@ -26,9 +26,9 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.2.10",
+    "eslint-config-next": "16.3.5",
     "tailwindcss": "^4",
     "typescript": "^5",
-    "vitest": "^4.1.9"
+    "vitest": "^4.1.11"
   }
 }
